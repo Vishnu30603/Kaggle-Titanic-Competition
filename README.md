@@ -27,7 +27,7 @@ Different machine learning algorithms are applied to the training data to build 
 The final step involves generating predictions on the test set and submitting the results to the Kaggle competition. The predictions are based on the trained model's ability to predict the likelihood of survival for passengers in the test dataset.
 
 # Dependencies
-The project relies on the following libraries:
+The project relies on the following libraries:                                                                                          
 1.NumPy                                                                                                                                 
 2.Pandas                                                                                                                                
 3.Matplotlib                                                                                                                            
