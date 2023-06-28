@@ -28,9 +28,9 @@ The final step involves generating predictions on the test set and submitting th
 
 # Dependencies
 The project relies on the following libraries:
-1.NumPy
-2.Pandas
-3.Matplotlib
-4.Seaborn
-5.Scikit-learn
+1.NumPy                                                                                                                                 
+2.Pandas                                                                                                                                
+3.Matplotlib                                                                                                                            
+4.Seaborn                                                                                                                               
+5.Scikit-learn                                                                                                                          
 Make sure to have these libraries installed before running the project.
