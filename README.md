@@ -25,3 +25,12 @@ Different machine learning algorithms are applied to the training data to build 
 
 # 7. Test Submission
 The final step involves generating predictions on the test set and submitting the results to the Kaggle competition. The predictions are based on the trained model's ability to predict the likelihood of survival for passengers in the test dataset.
+
+# Dependencies
+The project relies on the following libraries:
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Scikit-learn
+Make sure to have these libraries installed before running the project.
