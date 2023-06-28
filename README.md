@@ -28,7 +28,7 @@ The final step involves generating predictions on the test set and submitting th
 
 # Dependencies
 The project relies on the following libraries:
-1.NumPy 
+1.NumPy
 2.Pandas
 3.Matplotlib
 4.Seaborn
